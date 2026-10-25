@@ -6,7 +6,7 @@ Everything I use to turn a stock Qidi Q2 into a faster, cleaner, more capable pr
 
 ## Supported Printers
 
-**Full install guide:** [Q2 Install Guide](https://github.com/Camden-Winder/Qidi-Q2-superuser/wiki/Q2-Install-Guide)
+**Full install guide:** [Q2 Install Guide](https://github.com/wildecoupe/Qidi-Q2-superuser/wiki/Q2-Install-Guide)
 
 ---
 
@@ -23,7 +23,7 @@ Everything I use to turn a stock Qidi Q2 into a faster, cleaner, more capable pr
 
 ## Full Documentation
 
-[GitHub Wiki](https://github.com/Camden-Winder/Qidi-Q2-superuser/wiki)
+[GitHub Wiki](https://github.com/wildecoupe/Qidi-Q2-superuser/wiki)
 
 ---
 

@@ -12,7 +12,7 @@ Each installer backs up your config automatically before making any changes and 
 
 | Printer | Installer | Instructions |
 |---|---|---|
-| **Qidi Q2** | [`Q2/aio_menu.sh`](../Q2/aio_menu.sh) | [Q2 Install Guide](https://github.com/Camden-Winder/Qidi-Q2-superuser/wiki/Q2-Install-Guide) |
+| **Qidi Q2** | [`Q2/aio_menu.sh`](../Q2/aio_menu.sh) | [Q2 Install Guide](https://github.com/wildecoupe/Qidi-Q2-superuser/wiki/Q2-Install-Guide) |
 
 See the install guide for SSH credentials, curl commands, menu options, and troubleshooting.
 
